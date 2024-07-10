@@ -1,7 +1,7 @@
 const Header = (props) => {
 
    
-    return <div className="Header"> My Portfolio
+    return <div className="Header"> 
         
             <h2 className="navBar">
                  <a href="https://github.com/geno223">Github</a>
